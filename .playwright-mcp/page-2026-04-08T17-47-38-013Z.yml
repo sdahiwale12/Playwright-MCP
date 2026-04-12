@@ -1,0 +1,249 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=e3]:
+    - generic: 
+    - generic [ref=e4]:
+      - generic [ref=e5]: Bagisto Admin
+      - link "Opens in a new tab" [ref=e7] [cursor=pointer]:
+        - /url: https://demo.bagisto.com/bagisto-common/admin/login
+        - text: Visit Admin Panel
+    - generic [ref=e9]:
+      - button "$ USD " [ref=e12] [cursor=pointer]:
+        - generic [ref=e13]: $ USD
+        - text: 
+      - paragraph [ref=e14]:
+        - text: Get UPTO 40% OFF on your 1st order
+        - button "SHOP NOW" [ref=e15] [cursor=pointer]
+      - button "Default locale English " [ref=e18] [cursor=pointer]:
+        - img "Default locale" [ref=e19]
+        - generic [ref=e20]: English
+        - text: 
+    - banner [ref=e21]:
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - link "Bagisto" [ref=e25] [cursor=pointer]:
+            - /url: https://demo.bagisto.com/bagisto-common
+            - img "Bagisto" [ref=e26]
+          - generic [ref=e27]:
+            - generic [ref=e28]:
+              - generic [ref=e30] [cursor=pointer]:
+                - generic [ref=e31]: 
+                - text: All
+              - generic [ref=e32]:
+                - link "Mens" [ref=e34] [cursor=pointer]:
+                  - /url: https://demo.bagisto.com/bagisto-common/mens
+                - generic:
+                  - generic:
+                    - generic:
+                      - paragraph:
+                        - link "Formal Wear":
+                          - /url: https://demo.bagisto.com/bagisto-common/formal-wear-men
+                      - paragraph:
+                        - link "Casual Wear":
+                          - /url: https://demo.bagisto.com/bagisto-common/casual-wear-men
+                    - generic:
+                      - paragraph:
+                        - link "Active Wear":
+                          - /url: https://demo.bagisto.com/bagisto-common/active-wear
+                      - paragraph:
+                        - link "Footwear":
+                          - /url: https://demo.bagisto.com/bagisto-common/footwear
+              - generic [ref=e35]:
+                - link "Womens" [ref=e37] [cursor=pointer]:
+                  - /url: https://demo.bagisto.com/bagisto-common/womens
+                - generic:
+                  - generic:
+                    - generic:
+                      - paragraph:
+                        - link "Formal Wear":
+                          - /url: https://demo.bagisto.com/bagisto-common/formal-wear-female
+                      - paragraph:
+                        - link "Casual Wear":
+                          - /url: https://demo.bagisto.com/bagisto-common/casual-wear-female
+                    - generic:
+                      - paragraph:
+                        - link "Active Wear":
+                          - /url: https://demo.bagisto.com/bagisto-common/active-wear-female
+                      - paragraph:
+                        - link "Footwear":
+                          - /url: https://demo.bagisto.com/bagisto-common/footwear-female
+              - generic [ref=e38]:
+                - link "Kids" [ref=e40] [cursor=pointer]:
+                  - /url: https://demo.bagisto.com/bagisto-common/kids
+                - generic:
+                  - generic:
+                    - generic:
+                      - paragraph:
+                        - link "Girls Clothing":
+                          - /url: https://demo.bagisto.com/bagisto-common/girls-clothing
+                      - paragraph:
+                        - link "Boys Clothing":
+                          - /url: https://demo.bagisto.com/bagisto-common/boys-clothing
+                    - generic:
+                      - paragraph:
+                        - link "Girls Footwear":
+                          - /url: https://demo.bagisto.com/bagisto-common/girls-footwear
+                      - paragraph:
+                        - link "Boys Footwear":
+                          - /url: https://demo.bagisto.com/bagisto-common/boys-footwear
+              - generic [ref=e41]:
+                - link "Wellness" [ref=e43] [cursor=pointer]:
+                  - /url: https://demo.bagisto.com/bagisto-common/wellness
+                - generic:
+                  - generic:
+                    - generic:
+                      - paragraph:
+                        - link "Downloadable Yoga Tutorial":
+                          - /url: https://demo.bagisto.com/bagisto-common/downloadable-yoga-tutorial
+                      - paragraph:
+                        - link "E-Books":
+                          - /url: https://demo.bagisto.com/bagisto-common/e-books
+                    - generic:
+                      - paragraph:
+                        - link "Movie Pass":
+                          - /url: https://demo.bagisto.com/bagisto-common/movie-pass
+            - generic:  
+        - generic [ref=e44]:
+          - search [ref=e46]:
+            - generic [ref=e47]: Search
+            - generic: 
+            - textbox "Search products here" [ref=e48]
+            - generic "Search" [ref=e49]: 
+          - generic [ref=e50]:
+            - link "Compare" [ref=e51] [cursor=pointer]:
+              - /url: https://demo.bagisto.com/bagisto-common/compare
+              - text: 
+            - generic [ref=e52]:
+              - button "Shopping Cart" [ref=e55] [cursor=pointer]: 
+              - text: 
+            - button "Profile" [ref=e58] [cursor=pointer]: 
+    - generic [ref=e60]: "00 : 00"
+    - main [ref=e61]:
+      - navigation [ref=e65]:
+        - list [ref=e66]:
+          - listitem [ref=e67]:
+            - link "Home" [ref=e68] [cursor=pointer]:
+              - /url: https://demo.bagisto.com/bagisto-common
+            - generic [ref=e69]: 
+          - listitem [ref=e70]: Executive Elegance Men's Formal Office Suit
+      - generic [ref=e74]:
+        - generic [ref=e75]:
+          - generic [ref=e78]:
+            - img "Executive Elegance Men's Formal Office Suit"
+            - img "Executive Elegance Men's Formal Office Suit" [ref=e79] [cursor=pointer]
+          - text:   
+        - generic [ref=e82]:
+          - generic [ref=e83]:
+            - heading "Executive Elegance Men's Formal Office Suit" [level=1] [ref=e84]
+            - button "Add To Wishlist" [ref=e85] [cursor=pointer]: 
+          - paragraph [ref=e86]:
+            - paragraph [ref=e87]: As low as
+            - paragraph
+            - paragraph [ref=e88]: $299.99
+          - paragraph [ref=e89]:
+            - paragraph [ref=e90]: Elevate your professional presence with our Executive Elegance Men's Formal Office Suit. Meticulously tailored from premium fabrics with impeccable attention to detail, this suit delivers a polished and authoritative look for boardrooms, business meetings, and formal occasions.
+          - generic [ref=e91]:
+            - generic [ref=e92]:
+              - heading "Color" [level=2] [ref=e93]
+              - combobox "Color" [ref=e94] [cursor=pointer]:
+                - option "Please select an option" [selected]
+                - option "Green"
+                - option "Blue"
+            - generic [ref=e95]:
+              - heading "Size" [level=2] [ref=e96]
+              - combobox "Size" [disabled] [ref=e97] [cursor=pointer]
+          - generic [ref=e98]:
+            - generic [ref=e99]:
+              - button "Decrease Quantity" [ref=e100] [cursor=pointer]: 
+              - paragraph [ref=e101]: "1"
+              - button "Increase Quantity" [ref=e102] [cursor=pointer]: 
+            - button "Add To Cart" [ref=e103] [cursor=pointer]
+          - button " Compare" [ref=e105] [cursor=pointer]
+      - generic:  * * *
+      - generic [ref=e108]:
+        - generic [ref=e109]:
+          - button "Description" [ref=e110] [cursor=pointer]
+          - button "Additional Information" [ref=e111] [cursor=pointer]
+          - button "Reviews" [ref=e112] [cursor=pointer]
+        - paragraph [ref=e116]:
+          - paragraph [ref=e117]: Introducing the Executive Elegance Men's Formal Office Suit, the embodiment of professional sophistication. Crafted from a premium polyester-viscose blend with a smooth satin lining, this suit offers both comfort and durability throughout the workday.
+          - paragraph [ref=e118]: The two-button single-breasted jacket features notch lapels, a chest pocket, and two front flap pockets, while the straight-fit trousers complete the streamlined silhouette. Available in classic colors, this suit transitions seamlessly from office hours to evening events.
+          - paragraph [ref=e119]:
+            - strong [ref=e120]: "Key Features:"
+          - list [ref=e121]:
+            - listitem [ref=e122]: Premium polyester-viscose blend fabric
+            - listitem [ref=e123]: Smooth satin interior lining
+            - listitem [ref=e124]: Two-button single-breasted jacket
+            - listitem [ref=e125]: Notch lapels with chest and flap pockets
+            - listitem [ref=e126]: Straight-fit matching trousers
+            - listitem [ref=e127]: Available in Green and Blue
+      - text:   
+    - generic [ref=e129]:
+      - generic [ref=e130]:
+        - text: 
+        - generic [ref=e131]:
+          - paragraph [ref=e132]: Free Shipping
+          - paragraph [ref=e133]: Enjoy free shipping on all orders
+      - generic [ref=e134]:
+        - text: 
+        - generic [ref=e135]:
+          - paragraph [ref=e136]: Product Replace
+          - paragraph [ref=e137]: Easy Product Replacement Available!
+      - generic [ref=e138]:
+        - text: 
+        - generic [ref=e139]:
+          - paragraph [ref=e140]: Emi Available
+          - paragraph [ref=e141]: No cost EMI available on all major credit cards
+      - generic [ref=e142]:
+        - text: 
+        - generic [ref=e143]:
+          - paragraph [ref=e144]: 24/7 Support
+          - paragraph [ref=e145]: Dedicated 24/7 support via chat and email
+    - contentinfo [ref=e146]:
+      - generic [ref=e147]:
+        - generic [ref=e148]:
+          - list [ref=e149]:
+            - listitem [ref=e150]:
+              - link "About Us" [ref=e151] [cursor=pointer]:
+                - /url: http://localhost/page/about-us
+            - listitem [ref=e152]:
+              - link "Contact Us" [ref=e153] [cursor=pointer]:
+                - /url: http://localhost/contact-us
+            - listitem [ref=e154]:
+              - link "Customer Service" [ref=e155] [cursor=pointer]:
+                - /url: http://localhost/page/customer-service
+            - listitem [ref=e156]:
+              - link "What's New" [ref=e157] [cursor=pointer]:
+                - /url: http://localhost/page/whats-new
+            - listitem [ref=e158]:
+              - link "Terms of Use" [ref=e159] [cursor=pointer]:
+                - /url: http://localhost/page/terms-of-use
+            - listitem [ref=e160]:
+              - link "Terms & Conditions" [ref=e161] [cursor=pointer]:
+                - /url: http://localhost/page/terms-conditions
+          - list [ref=e162]:
+            - listitem [ref=e163]:
+              - link "Privacy Policy" [ref=e164] [cursor=pointer]:
+                - /url: http://localhost/page/privacy-policy
+            - listitem [ref=e165]:
+              - link "Payment Policy" [ref=e166] [cursor=pointer]:
+                - /url: http://localhost/page/payment-policy
+            - listitem [ref=e167]:
+              - link "Shipping Policy" [ref=e168] [cursor=pointer]:
+                - /url: http://localhost/page/shipping-policy
+            - listitem [ref=e169]:
+              - link "Refund Policy" [ref=e170] [cursor=pointer]:
+                - /url: http://localhost/page/refund-policy
+            - listitem [ref=e171]:
+              - link "Return Policy" [ref=e172] [cursor=pointer]:
+                - /url: http://localhost/page/return-policy
+        - text: 
+        - generic [ref=e173]:
+          - heading "Get Ready for our Fun Newsletter!" [level=2] [ref=e174]
+          - paragraph [ref=e175]: Subscribe to stay in touch.
+          - generic [ref=e178]:
+            - textbox "Email" [ref=e179]:
+              - /placeholder: email@example.com
+            - button "Subscribe" [ref=e180] [cursor=pointer]
+      - paragraph [ref=e182]: © Copyright 2010 - 2026, Webkul Software (Registered in India). All rights reserved.

@@ -1,0 +1,172 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=e3]:
+    - generic: 
+    - generic [ref=e4]:
+      - generic [ref=e5]: Bagisto Admin
+      - link "Opens in a new tab" [ref=e7] [cursor=pointer]:
+        - /url: https://demo.bagisto.com/bagisto-common/admin/login
+        - text: Visit Admin Panel
+    - generic [ref=e9]:
+      - button "$ USD " [ref=e12] [cursor=pointer]:
+        - generic [ref=e13]: $ USD
+        - text: 
+      - paragraph [ref=e14]:
+        - text: Get UPTO 40% OFF on your 1st order
+        - button "SHOP NOW" [ref=e15] [cursor=pointer]
+      - button "Default locale English " [ref=e18] [cursor=pointer]:
+        - img "Default locale" [ref=e19]
+        - generic [ref=e20]: English
+        - text: 
+    - banner [ref=e21]:
+      - generic [ref=e23]:
+        - link "Bagisto" [ref=e25] [cursor=pointer]:
+          - /url: https://demo.bagisto.com/bagisto-common
+          - img "Bagisto" [ref=e26]
+        - generic [ref=e28]:
+          - search [ref=e30]:
+            - generic [ref=e31]: Search
+            - generic: 
+            - textbox "Search products here" [ref=e32]
+            - generic "Search" [ref=e33]: 
+          - generic [ref=e34]:
+            - link "Compare" [ref=e35] [cursor=pointer]:
+              - /url: https://demo.bagisto.com/bagisto-common/compare
+              - text: 
+            - generic [ref=e36]:
+              - button "Shopping Cart" [ref=e39] [cursor=pointer]: 
+              - text: 
+            - button "Profile" [ref=e42] [cursor=pointer]: 
+    - generic [ref=e44]: "00 : 00"
+    - main [ref=e45]:
+      - paragraph [ref=e47]: Men
+      - generic [ref=e49]:
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - paragraph [ref=e53]
+            - paragraph [ref=e54]
+          - generic [ref=e55]:
+            - paragraph [ref=e57]
+            - generic [ref=e61]:
+              - paragraph [ref=e62]
+              - paragraph [ref=e63]
+          - generic [ref=e68]:
+            - paragraph [ref=e70]
+            - paragraph [ref=e73]
+          - generic [ref=e88]:
+            - paragraph [ref=e90]
+            - paragraph [ref=e93]
+        - generic [ref=e108]:
+          - generic [ref=e111]:
+            - button "Expensive First " [ref=e114] [cursor=pointer]
+            - generic [ref=e115]:
+              - button "12 " [ref=e118] [cursor=pointer]
+              - generic [ref=e119]:
+                - button "List" [ref=e120] [cursor=pointer]: 
+                - button "Grid" [ref=e121] [cursor=pointer]: 
+          - generic [ref=e123]:
+            - generic [ref=e127]:
+              - paragraph [ref=e128]
+              - paragraph [ref=e129]
+            - generic [ref=e133]:
+              - paragraph [ref=e134]
+              - paragraph [ref=e135]
+            - generic [ref=e139]:
+              - paragraph [ref=e140]
+              - paragraph [ref=e141]
+            - generic [ref=e145]:
+              - paragraph [ref=e146]
+              - paragraph [ref=e147]
+            - generic [ref=e151]:
+              - paragraph [ref=e152]
+              - paragraph [ref=e153]
+            - generic [ref=e157]:
+              - paragraph [ref=e158]
+              - paragraph [ref=e159]
+            - generic [ref=e163]:
+              - paragraph [ref=e164]
+              - paragraph [ref=e165]
+            - generic [ref=e169]:
+              - paragraph [ref=e170]
+              - paragraph [ref=e171]
+            - generic [ref=e175]:
+              - paragraph [ref=e176]
+              - paragraph [ref=e177]
+            - generic [ref=e181]:
+              - paragraph [ref=e182]
+              - paragraph [ref=e183]
+            - generic [ref=e187]:
+              - paragraph [ref=e188]
+              - paragraph [ref=e189]
+            - generic [ref=e193]:
+              - paragraph [ref=e194]
+              - paragraph [ref=e195]
+    - generic [ref=e197]:
+      - generic [ref=e198]:
+        - text: 
+        - generic [ref=e199]:
+          - paragraph [ref=e200]: Free Shipping
+          - paragraph [ref=e201]: Enjoy free shipping on all orders
+      - generic [ref=e202]:
+        - text: 
+        - generic [ref=e203]:
+          - paragraph [ref=e204]: Product Replace
+          - paragraph [ref=e205]: Easy Product Replacement Available!
+      - generic [ref=e206]:
+        - text: 
+        - generic [ref=e207]:
+          - paragraph [ref=e208]: Emi Available
+          - paragraph [ref=e209]: No cost EMI available on all major credit cards
+      - generic [ref=e210]:
+        - text: 
+        - generic [ref=e211]:
+          - paragraph [ref=e212]: 24/7 Support
+          - paragraph [ref=e213]: Dedicated 24/7 support via chat and email
+    - contentinfo [ref=e214]:
+      - generic [ref=e215]:
+        - generic [ref=e216]:
+          - list [ref=e217]:
+            - listitem [ref=e218]:
+              - link "About Us" [ref=e219] [cursor=pointer]:
+                - /url: http://localhost/page/about-us
+            - listitem [ref=e220]:
+              - link "Contact Us" [ref=e221] [cursor=pointer]:
+                - /url: http://localhost/contact-us
+            - listitem [ref=e222]:
+              - link "Customer Service" [ref=e223] [cursor=pointer]:
+                - /url: http://localhost/page/customer-service
+            - listitem [ref=e224]:
+              - link "What's New" [ref=e225] [cursor=pointer]:
+                - /url: http://localhost/page/whats-new
+            - listitem [ref=e226]:
+              - link "Terms of Use" [ref=e227] [cursor=pointer]:
+                - /url: http://localhost/page/terms-of-use
+            - listitem [ref=e228]:
+              - link "Terms & Conditions" [ref=e229] [cursor=pointer]:
+                - /url: http://localhost/page/terms-conditions
+          - list [ref=e230]:
+            - listitem [ref=e231]:
+              - link "Privacy Policy" [ref=e232] [cursor=pointer]:
+                - /url: http://localhost/page/privacy-policy
+            - listitem [ref=e233]:
+              - link "Payment Policy" [ref=e234] [cursor=pointer]:
+                - /url: http://localhost/page/payment-policy
+            - listitem [ref=e235]:
+              - link "Shipping Policy" [ref=e236] [cursor=pointer]:
+                - /url: http://localhost/page/shipping-policy
+            - listitem [ref=e237]:
+              - link "Refund Policy" [ref=e238] [cursor=pointer]:
+                - /url: http://localhost/page/refund-policy
+            - listitem [ref=e239]:
+              - link "Return Policy" [ref=e240] [cursor=pointer]:
+                - /url: http://localhost/page/return-policy
+        - text: 
+        - generic [ref=e241]:
+          - heading "Get Ready for our Fun Newsletter!" [level=2] [ref=e242]
+          - paragraph [ref=e243]: Subscribe to stay in touch.
+          - generic [ref=e246]:
+            - textbox "Email" [ref=e247]:
+              - /placeholder: email@example.com
+            - button "Subscribe" [ref=e248] [cursor=pointer]
+      - paragraph [ref=e250]: © Copyright 2010 - 2026, Webkul Software (Registered in India). All rights reserved.

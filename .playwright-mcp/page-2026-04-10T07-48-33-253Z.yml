@@ -1,0 +1,137 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: Bagisto Admin
+      - link "Opens in a new tab" [ref=e7] [cursor=pointer]:
+        - /url: https://demo.bagisto.com/bagisto-common/admin/login
+        - text: Visit Admin Panel
+    - banner
+    - main [ref=e8]:
+      - generic:
+        - generic:
+          - heading [level=2]
+      - generic [ref=e11]:
+        - generic:
+          - generic:
+            - generic:
+              - paragraph
+              - paragraph
+            - generic:
+              - generic:
+                - paragraph
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph
+                    - paragraph
+            - generic:
+              - generic:
+                - paragraph
+              - generic:
+                - paragraph
+            - generic:
+              - generic:
+                - paragraph
+              - generic:
+                - paragraph
+        - generic [ref=e12]:
+          - generic:
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+          - button [ref=e13]
+    - contentinfo [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - list [ref=e17]:
+            - listitem [ref=e18]:
+              - link "About Us" [ref=e19] [cursor=pointer]:
+                - /url: http://localhost/page/about-us
+            - listitem [ref=e20]:
+              - link "Contact Us" [ref=e21] [cursor=pointer]:
+                - /url: http://localhost/contact-us
+            - listitem [ref=e22]:
+              - link "Customer Service" [ref=e23] [cursor=pointer]:
+                - /url: http://localhost/page/customer-service
+            - listitem [ref=e24]:
+              - link "What's New" [ref=e25] [cursor=pointer]:
+                - /url: http://localhost/page/whats-new
+            - listitem [ref=e26]:
+              - link "Terms of Use" [ref=e27] [cursor=pointer]:
+                - /url: http://localhost/page/terms-of-use
+            - listitem [ref=e28]:
+              - link "Terms & Conditions" [ref=e29] [cursor=pointer]:
+                - /url: http://localhost/page/terms-conditions
+          - list [ref=e30]:
+            - listitem [ref=e31]:
+              - link "Privacy Policy" [ref=e32] [cursor=pointer]:
+                - /url: http://localhost/page/privacy-policy
+            - listitem [ref=e33]:
+              - link "Payment Policy" [ref=e34] [cursor=pointer]:
+                - /url: http://localhost/page/payment-policy
+            - listitem [ref=e35]:
+              - link "Shipping Policy" [ref=e36] [cursor=pointer]:
+                - /url: http://localhost/page/shipping-policy
+            - listitem [ref=e37]:
+              - link "Refund Policy" [ref=e38] [cursor=pointer]:
+                - /url: http://localhost/page/refund-policy
+            - listitem [ref=e39]:
+              - link "Return Policy" [ref=e40] [cursor=pointer]:
+                - /url: http://localhost/page/return-policy
+        - generic [ref=e41]:
+          - heading "Get Ready for our Fun Newsletter!" [level=2] [ref=e42]
+          - paragraph [ref=e43]: Subscribe to stay in touch.
+          - generic [ref=e46]:
+            - textbox "Email" [ref=e48]:
+              - /placeholder: email@example.com
+            - generic:
+              - paragraph
+            - button "Subscribe" [ref=e49]
+      - paragraph [ref=e51]: © Copyright 2010 - 2026, Webkul Software (Registered in India). All rights reserved.
